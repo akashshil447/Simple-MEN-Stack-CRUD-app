@@ -1,0 +1,14 @@
+1.init project
+npm -init
+
+2. install required packages
+
+3.create a app using express
+
+4. create a connection to database
+
+5.create routers for diffrent packages
+
+6. create model for database
+
+7. create logic for get, post, patch/put, delete
